@@ -5,7 +5,7 @@
 ## Java
 
 - 프로그래밍 기초 
-- 
+- JVM의 구조와 동작 과정
 
 ## Spring
 
@@ -14,3 +14,5 @@
 - 배포 -
 - JPA -
 - Spring Security -
+
+## ETC
