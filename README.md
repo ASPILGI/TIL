@@ -17,6 +17,6 @@
 
 ## design-pattern
 
-- [MVC](https://github.com/ASPILGI/TIL/blob/main/design-pattern/)
+- [MVC](https://github.com/ASPILGI/TIL/blob/main/design-pattern/mvc.md)
 
 ## ETC
