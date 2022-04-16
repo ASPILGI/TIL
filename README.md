@@ -19,5 +19,6 @@
 ## design-pattern
 
 - [MVC](https://github.com/ASPILGI/TIL/blob/main/design-pattern/mvc.md)
+- [Singleton](https://github.com/ASPILGI/TIL/blob/main/design-pattern/singleton.md)
 
 ## ETC
