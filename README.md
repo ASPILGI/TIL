@@ -25,4 +25,4 @@
 ## ETC
 
 - [프레임워크와 라이브러리의 차이](https://github.com/ASPILGI/TIL/blob/main/ETC/Framework%20vs%20Library.md)
-- [프론트엔드와 백엔드의 차이]
+- [프론트엔드와 백엔드의 차이](https://github.com/ASPILGI/TIL/blob/main/ETC/Front-end%20vs%20Back-end.md)
