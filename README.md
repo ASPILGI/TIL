@@ -11,11 +11,11 @@
 
 ## Spring
 
-- Controller -
-- 기본개념 -
-- 배포 -
-- JPA -
-- Spring Security -
+- Controller
+- 기본개념
+- 배포 
+- JPA
+- Spring Security 
 
 ## design-pattern
 
