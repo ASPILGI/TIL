@@ -23,7 +23,6 @@
 #### 2. Runtime Data Area
 - JVM의 메모리 영역으로 자바 애플리케이션을 사용할 때 사용되는 데이터들을 적재하는 영역이다
 - 크게 Method Area, Heap Area, Stack Area, PC Register, Native Method Stack 으로 나눌 수 있다
-  - RunTime Data Area 구조
 #### 3. Garbage Collector
 - Heap 메모리 영역에 생성(적재)된 객체들 중 참조되지 않는 객체들을 탐색 후 제거하는 역할을 한다
 - GC가 역할을 하는 시간은 정확히 언제인지를 알 수 없다, 즉 참조가 없어지자마자 해제되는 것을 보장하지 않는다는 말이다
