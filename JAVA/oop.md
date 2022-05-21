@@ -94,10 +94,7 @@ public class test {
        
         // test(int z, int x) 호출
         ob.test(15, 40);
-       
-        // test(double d) 호출
-        ob.test(85);
-       
+           
         // test(double d) 호출
         ob.test(223.5);
     }
