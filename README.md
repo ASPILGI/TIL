@@ -17,6 +17,7 @@
 - 배포 
 - JPA
 - Spring Security 
+- 롬복(Lombok)
 
 ## design-pattern
 
