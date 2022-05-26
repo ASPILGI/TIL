@@ -5,6 +5,9 @@
   - 즉, 실제적으로 구현된것이 아니라 구현된 클래스와 매핑을 해주기 위해 사용되는 프레임워크이다.
 - 자바 어플리케이션에서 관계형 데이터베이스를 사용하는 방식을 정의한 인터페이스
 - 인터페이스 이기 때문에 Hibernate, OpenJPA 등이 JPA를 구현함  
+<img width="50%" src="https://user-images.githubusercontent.com/84302546/170414062-4c1aa746-d580-45c7-b182-e9f75365844d.png"/>
+
+
 
 > ORM
 - 우리가 일반 적으로 알고 있는 애플리케이션 Class와 RDB(Relational DataBase)의 테이블을 매핑(연결)한다는 뜻이며,<br>
