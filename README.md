@@ -15,7 +15,7 @@
 - Controller
 - 기본개념
 - 배포 
-- JPA
+- [JPA](https://github.com/ASPILGI/TIL/blob/main/Spring/JPA.md)
 - Spring Security 
 - 롬복(Lombok)
 
