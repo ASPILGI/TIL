@@ -1,8 +1,6 @@
 # Spring이란? (Spring Framework)
-
 - JAVA의 웹 프레임워크로 JAVA 언어를 기반으로 사용한다<br> 
 - JAVA로 다양한 어플리케이션을 만들기 위한 프로그래밍 틀이라 할 수 있다.
-<br>
 
 ## Spring의 특징
 
