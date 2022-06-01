@@ -17,7 +17,7 @@
 - 배포 
 - [JPA](https://github.com/ASPILGI/TIL/blob/main/Spring/JPA.md)
 - Spring Security 
-- [Lombok]()
+- [Lombok](https://github.com/ASPILGI/TIL/blob/main/Spring/lombok.md)
 
 ## design-pattern
 
