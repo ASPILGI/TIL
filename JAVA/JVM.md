@@ -32,3 +32,12 @@
 #### 4. Execution Engine
 - Class Loader에 의해 메모리에 적재된(바이트 코드)들을 기계어로 변경해 명령어 단위로 실행하는 역할을 한다
 - 인터프리터(Interpreter) 방식과, JIT(Just In Time) 컴파일러를 이용하는 방식이 있는데,<br> 인터프리터 방식을 사용하다가 일정한 기준이 넘어가면 JIT 컴파일러 방식으로 실행하게 된다
+
+
+##  과정
+1. 개발자가 .java 파일을 생성한다.
+2. build를 한다.
+3. java compiler의 javac의 명령어를 통해 바이트코드(.class)를 생성한다.
+4. Class Loader를 통해 JVM 메모리 내로 로드한다.
+5. 실행엔진을 통해 컴퓨터가 읽을 수 있는 기계어로 해석된다.(각 운영체제에 맞는 기계어)
+<img width="50%" src="https://user-images.githubusercontent.com/84302546/171850167-0ef770d8-e96e-4d6d-8e0d-c4f9470e807f.png"/>
