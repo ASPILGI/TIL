@@ -19,6 +19,10 @@
 - Spring Security 
 - [Lombok](https://github.com/ASPILGI/TIL/blob/main/Spring/lombok.md)
 
+## Database
+
+- 트랜잭션(Transaction)
+
 ## design-pattern
 
 - [MVC](https://github.com/ASPILGI/TIL/blob/main/design-pattern/mvc.md)
