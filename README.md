@@ -21,7 +21,7 @@
 
 ## Database
 
-- 트랜잭션(Transaction)
+- [트랜잭션(Transaction)](https://github.com/ASPILGI/TIL/blob/main/Database/Transaction.md)
 
 ## design-pattern
 
