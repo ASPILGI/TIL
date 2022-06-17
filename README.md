@@ -22,7 +22,7 @@
 ## Database
 
 - [트랜잭션(Transaction)](https://github.com/ASPILGI/TIL/blob/main/Database/Transaction.md)
-- SQL명령어(DDL,DML,DCL)
+- [SQL명령어(DDL,DML,DCL)](https://github.com/ASPILGI/TIL/blob/main/Database/SQL.md)
 
 ## design-pattern
 
