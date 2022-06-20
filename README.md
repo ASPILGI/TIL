@@ -16,7 +16,7 @@
 - [기본개념 및 특징](https://github.com/ASPILGI/TIL/blob/main/Spring/Spring.md)
 - 배포 
 - [JPA](https://github.com/ASPILGI/TIL/blob/main/Spring/JPA.md)
-- Spring Security 
+- [Spring Security](https://github.com/ASPILGI/TIL/blob/main/Spring/Spring%20Security.md) 
 - [Lombok](https://github.com/ASPILGI/TIL/blob/main/Spring/lombok.md)
 
 ## Database
