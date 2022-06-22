@@ -5,16 +5,13 @@
 ## Java
 
 - [Java 소개와 특징](https://github.com/ASPILGI/TIL/blob/main/JAVA/concept.md)
-- 프로그래밍 기초 
 - [JVM의 구조와 동작 과정](https://github.com/ASPILGI/TIL/blob/main/JAVA/JVM.md)
 - [객체지향 프로그래밍(OOP)](https://github.com/ASPILGI/TIL/blob/main/JAVA/oop.md)
 - [메소드(Method)](https://github.com/ASPILGI/TIL/blob/main/JAVA/Method.md)
 
 ## Spring
 
-- Controller
 - [기본개념 및 특징](https://github.com/ASPILGI/TIL/blob/main/Spring/Spring.md)
-- 배포 
 - [JPA](https://github.com/ASPILGI/TIL/blob/main/Spring/JPA.md)
 - [Spring Security](https://github.com/ASPILGI/TIL/blob/main/Spring/Spring%20Security.md) 
 - [Lombok](https://github.com/ASPILGI/TIL/blob/main/Spring/lombok.md)
