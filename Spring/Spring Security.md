@@ -1,8 +1,8 @@
 # Spring Security
 
 ### Spring Security란?
-- Spring Security는 Spring기반 애플리케이션의 보안을 담당하는 스프링 하위 프레임워크이다.
-- Spring Security는 인증(Authentication)과 권한(Authorization)에 대한 부분을 Filter의 흐름에 따라 처리를 하고 있다.
+- Spring기반 애플리케이션의 보안을 담당하는 스프링 하위 프레임워크이다.
+- 인증(Authentication)과 권한(Authorization)에 대한 부분을 Filter의 흐름에 따라 처리를 하고 있다.
 - 많은 보안 관련 옵션들을 제공해주어 개발자가 보안 로직을 하나씩 작성하지 않아도 되는 장점이 있다.
 
 ### 인증(Authentication)과 권한(Authorization)
