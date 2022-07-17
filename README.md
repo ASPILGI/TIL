@@ -8,7 +8,7 @@
 - [JVM의 구조와 동작 과정](https://github.com/ASPILGI/TIL/blob/main/JAVA/JVM.md)
 - [객체지향 프로그래밍(OOP)](https://github.com/ASPILGI/TIL/blob/main/JAVA/oop.md)
 - [메소드(Method)](https://github.com/ASPILGI/TIL/blob/main/JAVA/Method.md)
-- [람다식(Lambda]()
+- [람다식(Lambda](https://github.com/ASPILGI/TIL/blob/main/JAVA/Lambda.md)
 
 ## Spring
 
