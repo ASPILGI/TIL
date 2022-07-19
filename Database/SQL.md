@@ -2,7 +2,7 @@
 
 ### SQL문법의 종류
 1. 데이터 정의어(DDL: Data Definition Language)
-  - 테이블이나 관계의 구조를 생성하는데 사용하며 CREATE, ALTER, DROP,TRUNCATE 문 등이 있다.
+  - 테이블이나 관계의 구조를 생성하는데 사용하며 CREATE, ALTER, DROP, TRUNCATE 문 등이 있다.
 ```
 CREATE - 새로운 데이터베이스 관계(테이블) View, 인덱스 , 저장 프로시저 만들기.
 DROP - 이미 존재하는 데이터베이스 관계(테이블), 뷰, 인덱스, 저장 프로시저를 삭제한다.
