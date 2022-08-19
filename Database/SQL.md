@@ -1,5 +1,15 @@
 # SQL명령어
 
+### SQL이란
+SQL(Structured Query Language)은 구조화된 쿼리(질의문) 언어를 의미한다.여기서 쿼리는 데이터베이스에 저장되어있는 정보를<br>
+필터링 하기 위한 질문인데, SQL은 데이터베이스에 쿼리를 보내 원하는 데이터를 가져오거나 삽입할 수 있다.<br>
+즉, SQL은 데이터베이스에 사용하는 프로그래밍 언어라고 할 수 있다.
+
+SQL은 주로 관계형 데이터베이스에서 사용하는데, MySQL, Oracle, SQLite, PostgreSQL 등의 관계형 데이터베이스에서 사용한다.
+
+SQL을 사용하는 데이터베이스와 다르게 데이터의 구조가 고정되어 있지 않은 데이터베이스를 NoSQL이라고 한다.<br>
+NoSQL은 테이블을 사용하지 않고 데이터를 다른 형태로 저장한다. MongoDB와 같은 문서지향 데이터베이스가 NoSQL의 종류이다.
+
 ### SQL문법의 종류
 1. 데이터 정의어(DDL: Data Definition Language)
   - 테이블이나 관계의 구조를 생성하는데 사용하며 CREATE, ALTER, DROP, TRUNCATE 문 등이 있다.
