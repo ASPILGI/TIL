@@ -43,3 +43,9 @@ COMMIT - 모든 작업을 최종 실행
 ROLLBACK - 모든 작업을 되돌림
 SAVEPOINT - ROLLBACK 저장점을 지정하는 명령어
 ```
+
+### 연산자
+1. 산술 연산자 : + - / *
+2. 비교 연산자 : > < >= <= = != ^= <>
+3. 논리 연산자 : and, or, not
+4. 비교 연산자2 : between and, in, is null, like
