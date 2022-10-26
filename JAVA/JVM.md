@@ -26,6 +26,17 @@
   - Method area<br> 
     모든 쓰레드가 공유하는 메모리 영역입니다.<br>
     메소드 영역은 클래스, 인터페이스, 메소드, 필드, Static 변수 등의 바이트 코드를 보관합니다.
+  - Heap Area<br>
+    프로그램 상에서 런타임시 동적으로 할당하여 사용하는 영역이다.<br>
+    class를 이용해 instance를 생성하면 Heap에 저장된다. (ex. ClassA a = new ClassA();)
+  - Stack Are<br>
+    스택 영영에는 int, boolean 등 기본 자료형과 지역 변수, 파라미터, 리턴값 등 연산에 임시로 사용되는 정보들이 저장된다.<br>
+    또한, 객체의 참조 주소값도 스택 영역에 저장된다. 메소드 호출 시 개별적으로 스택이 생성되며, 종료 시 소멸한다.
+  - PC Register<br>
+    PC Register는 각 Thread 별로 하나씩 존재하며 현재 수행중인 Java Virtual Machine의 주소를 가지게 된다.
+  - Native Method Stack<br>
+    Java 외의 언어로 작성된 네이티브 코드들을 위한 Stack이다<br>
+    즉, JNI(Java Native Interface)를 통해 호출되는 C/C++ 등의 코드를 수행하기 위한 Stack이다.
 #### 3. Garbage Collector
 - Heap 메모리 영역에 생성(적재)된 객체들 중 참조되지 않는 객체들을 탐색 후 제거하는 역할을 한다.
 - GC가 역할을 하는 시간은 정확히 언제인지를 알 수 없다, 즉 참조가 없어지자마자 해제되는 것을 보장하지 않는다는 말이다.
