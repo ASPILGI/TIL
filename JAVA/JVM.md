@@ -23,13 +23,13 @@
 #### 2. Runtime Data Area
 - JVM의 메모리 영역으로 자바 애플리케이션을 사용할 때 사용되는 데이터들을 적재하는 영역이다
 - 크게 Method Area, Heap Area, Stack Area, PC Register, Native Method Stack 으로 나눌 수 있다
-  - Method area<br> 
+  - Method Area<br> 
     모든 쓰레드가 공유하는 메모리 영역입니다.<br>
     메소드 영역은 클래스, 인터페이스, 메소드, 필드, Static 변수 등의 바이트 코드를 보관합니다.
   - Heap Area<br>
     프로그램 상에서 런타임시 동적으로 할당하여 사용하는 영역이다.<br>
     class를 이용해 instance를 생성하면 Heap에 저장된다. (ex. ClassA a = new ClassA();)
-  - Stack Are<br>
+  - Stack Area<br>
     스택 영영에는 int, boolean 등 기본 자료형과 지역 변수, 파라미터, 리턴값 등 연산에 임시로 사용되는 정보들이 저장된다.<br>
     또한, 객체의 참조 주소값도 스택 영역에 저장된다. 메소드 호출 시 개별적으로 스택이 생성되며, 종료 시 소멸한다.
   - PC Register<br>
