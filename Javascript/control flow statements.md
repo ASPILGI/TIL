@@ -11,4 +11,4 @@
 
 [순서도]
 
-<img src="https://user-images.githubusercontent.com/84302546/198541457-01ea9e7f-b67d-4572-a97f-cf4a06f1c66e.png" width="220" height="400"/)
+<img src="https://user-images.githubusercontent.com/84302546/198541457-01ea9e7f-b67d-4572-a97f-cf4a06f1c66e.png" width="220" height="400"/>
