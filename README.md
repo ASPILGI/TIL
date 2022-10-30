@@ -22,6 +22,7 @@
 ## Javascript
 
 - [기본개념 및 특징](https://github.com/ASPILGI/TIL/blob/main/Javascript/concept.md)
+- [제어문](https://github.com/ASPILGI/TIL/blob/main/Javascript/control%20flow%20statements.md)
 
 ## Database
 
