@@ -18,4 +18,23 @@
   이때 상속되는 정보를 제공하는 객체를 프로토타입(prototype)이라고 합니다.
   
   
-#### 
+### 문서 객체 모델(DOM)
+- 문서 객체 모델(DOM, Document Object Model)은 XML이나 HTML 문서에 접근하기 위한 일종의 인터페이스입니다. <br>
+  이 객체 모델은 문서 내의 모든 요소를 정의하고, 각각의 요소에 접근하는 방법을 제공합니다.
+
+[DOM의 계층구조]
+
+<img src="https://user-images.githubusercontent.com/84302546/199142545-365c9071-5dad-425e-a1eb-79f29abdcb9d.png" width="500" height="300"/>
+
+- 자바스크립트는 이러한 객체 모델을 이용하여 다음과 같은 작업을 할 수 있습니다.
+1. 자바스크립트는 새로운 HTML 요소나 속성을 추가하거나 존재하는 HTML 요소나 속성을 제거할 수 있습니다.
+2. 자바스크립트는 HTML 문서의 모든 HTML요소, HTML속성, CSS스타일을 변경할 수 있습니다.
+3. 자바스크립트는 HTML 문서에 새로운 HTML 이벤트를 추가, 모든 HTML 이벤트에 반응할 수 있습니다.
+
+#### DOM의 종류
+1. Core DOM : 모든 문서 타입을 위한 DOM 모델
+2. HTML DOM : HTML 문서를 위한 DOM 모델
+3. XML DOM : XML 문서를 위한 DOM 모델
+
+
+### 노드
