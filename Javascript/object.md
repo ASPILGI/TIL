@@ -44,5 +44,9 @@
   이러한 노드 트리는 노드들의 집합이며, 노드 간의 관계를 보여줍니다.
   
 [노드 트리]
-<img src="https://user-images.githubusercontent.com/84302546/199369532-6230dc81-9d5a-43de-8387-fca253e92e18.png" width="500" height="300"/>
+
+
+<img src="https://user-images.githubusercontent.com/84302546/199369532-6230dc81-9d5a-43de-8387-fca253e92e18.png" width="400" height="300"/>
+
+
   
