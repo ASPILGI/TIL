@@ -29,7 +29,7 @@
 
 ## React
 
-- [컴포넌트(Component)](https://github.com/ASPILGI/TIL/blob/main/React/Component.md)
+- [컴포넌트(Component)](https://github.com/ASPILGI/TIL/blob/main/React/Component%20and%20props.md)
 
 ## Database
 
