@@ -45,6 +45,14 @@
 - [MVC](https://github.com/ASPILGI/TIL/blob/main/design-pattern/mvc.md)
 - [Singleton](https://github.com/ASPILGI/TIL/blob/main/design-pattern/Singleton.md)
 
+## 알고리즘
+
+- [해시(Hash)](https://github.com/ASPILGI/TIL/blob/main/Algorithm/Hash.md)
+
+## Security
+
+- [XSS(Cross-Site Scripting)](https://github.com/ASPILGI/TIL/blob/main/Security/XSS.md)
+
 ## ETC
 
 - [프레임워크와 라이브러리의 차이](https://github.com/ASPILGI/TIL/blob/main/ETC/Framework%20vs%20Library.md)
@@ -52,6 +60,4 @@
 - [에러와 예외의 차이](https://github.com/ASPILGI/TIL/blob/main/ETC/Error%20vs%20Exception.md)
 - [배열과 리스트의 차이](https://github.com/ASPILGI/TIL/blob/main/ETC/Arrary%20vs%20List.md)
 
-## 알고리즘
 
-- [해시(Hash)](https://github.com/ASPILGI/TIL/blob/main/Algorithm/Hash.md)
