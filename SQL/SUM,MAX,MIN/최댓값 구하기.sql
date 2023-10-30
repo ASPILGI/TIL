@@ -1,0 +1,3 @@
+--  가장 최근은 MIN이 아니라 MAX!!!!
+SELECT MAX(DATETIME) AS "시간"
+FROM ANIMAL_INS 
